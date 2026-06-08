@@ -60,6 +60,10 @@ Course offered by,
 #### Mid Term
 
 - [**Class 01**](https://shadowshahriar.github.io/cse326/notes/class-01.pdf): 14 May 2026
+- [**Class 02**](https://shadowshahriar.github.io/cse326/notes/class-02.pdf): 20 May 2026
+- [**Class 03**](https://shadowshahriar.github.io/cse326/notes/class-03.pdf): 21 May 2026
+- [**Class 04**](https://shadowshahriar.github.io/cse326/notes/class-04.pdf): 03 June 2026
+- [**Class 05**](https://shadowshahriar.github.io/cse326/notes/class-05.pdf): 04 June 2026
 
 <!-- ## Lab Reports
 
