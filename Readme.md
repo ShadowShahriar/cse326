@@ -51,9 +51,9 @@ Course offered by,
     - [**01:**](https://shadowshahriar.github.io/cse326/notes/practice-01.pdf)
     - [**02:**](https://shadowshahriar.github.io/cse326/notes/practice-02.pdf) -->
 
-<!-- ## Assignment
+## Assignment
 
-- [**Final Term Examination**](https://shadowshahriar.github.io/cse326/assignment/2026-04-24.pdf) -->
+- [**Mid Term Examination**](https://shadowshahriar.github.io/cse326/assignment/2026-07-04.pdf)
 
 ## Class Notes
 
