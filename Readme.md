@@ -51,9 +51,10 @@ Course offered by,
     - [**01:**](https://shadowshahriar.github.io/cse326/notes/practice-01.pdf)
     - [**02:**](https://shadowshahriar.github.io/cse326/notes/practice-02.pdf) -->
 
-## Assignment
+## Preparation
 
-- [**Mid Term Examination**](https://shadowshahriar.github.io/cse326/assignment/2026-07-04.pdf)
+- [**Assignment: Mid Term Examination**](https://shadowshahriar.github.io/cse326/assignment/2026-07-04.pdf)
+- [**Quiz: Lab Mid**](https://shadowshahriar.github.io/cse326/quiz/)
 
 ## Class Notes
 
@@ -67,6 +68,11 @@ Course offered by,
 - [**Class 06**](https://shadowshahriar.github.io/cse326/notes/class-06.pdf): 11 June 2026
 - [**Class 07**](https://shadowshahriar.github.io/cse326/notes/class-07.pdf): 17 June 2026
 - **Class 08**: 18 June 2026 (❌ CT Break)
+
+#### Final Term
+
+- **Class 01**: 08 July 2026 (❌ No Student)
+- **Class 02**: 09 July 2026
 
 <!-- ## Lab Reports
 
