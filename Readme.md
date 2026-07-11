@@ -72,7 +72,7 @@ Course offered by,
 #### Final Term
 
 - **Class 01**: 08 July 2026 (❌ No Student)
-- **Class 02**: 09 July 2026
+- [**Class 02**](https://shadowshahriar.github.io/cse326/notes/class-10.pdf): 09 July 2026
 
 <!-- ## Lab Reports
 
