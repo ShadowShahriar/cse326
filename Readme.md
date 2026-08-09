@@ -76,6 +76,10 @@ Course offered by,
 - [**Class 11**](https://shadowshahriar.github.io/cse326/notes/class-11.pdf): 15 July 2026
 - [**Class 12**](https://shadowshahriar.github.io/cse326/notes/class-12.pdf): 16 July 2026
 - [**Class 13-14**](https://shadowshahriar.github.io/cse326/notes/class-13-14.pdf): 22-23 July 2026
+- **Class 15-16**: 29-30 July 2026 (❌ Canceled)
+- **Class 17**: 5 August 2026 (❌ Govt. Holiday)
+- **Class 18**: 6 August 2026 (❌ Canceled)
+- **Class 19**: 8 August 2026 (❌ Canceled)
 
 <!-- ## Lab Reports
 
