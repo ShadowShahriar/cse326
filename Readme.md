@@ -80,6 +80,7 @@ Course offered by,
 - **Class 17**: 5 August 2026 (❌ Govt. Holiday)
 - **Class 18**: 6 August 2026 (❌ Canceled)
 - **Class 19**: 8 August 2026 (❌ Canceled)
+- [**Class 20**](https://drive.google.com/drive/folders/1ZHc1RnWjbjRWQmjSyYFTR0qxfAZqmfBC?usp=drive_link): 11 August 2026 (🍃 Online)
 
 <!-- ## Lab Reports
 
