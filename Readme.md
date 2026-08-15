@@ -81,7 +81,7 @@ Course offered by,
 - **Class 18**: 6 August 2026 (❌ Canceled)
 - **Class 19**: 8 August 2026 (❌ Canceled)
 - [**Class 20**](https://drive.google.com/drive/folders/1ZHc1RnWjbjRWQmjSyYFTR0qxfAZqmfBC?usp=drive_link): 11 August 2026 (🍃 Online)
-- **Class 21**: 12 August 2026
+- [**Class 21**](https://shadowshahriar.github.io/cse326/notes/class-21.pdf): 12 August 2026
 - [**Class 22**](https://drive.google.com/drive/folders/16TlDTftXdgtBVmopyLVqYw7Bh5nmxrNh?usp=drive_link): 12 August 2026 (🍃 Online)
 
 <!-- ## Lab Reports
